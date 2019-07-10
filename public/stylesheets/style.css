@@ -47,7 +47,7 @@ ul li a i:hover {
   opacity: 0.7;
 }
 .links {
-  text-align: justify;
+  text-align: center;
 }
 /* navbar*/
 .sidebar {
@@ -126,7 +126,7 @@ p {
 .pimg2,
 .pimg3 {
   position: relative;
-  opacity: 0.6; /*faded COLOR
+  opacity: 0.7; /*faded COLOR
   background-position: center;
   background-size: cover; /*entire site*/
   /* background-repeat: no-repeat; /*images not to repeat*/
@@ -216,7 +216,7 @@ body {
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     padding: 1em; */
 .container {
-  max-width: 980px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   padding: 1em;
@@ -302,7 +302,7 @@ ul {
 }
 
 /*big screen*/
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   .wrapper {
     display: grid;
     grid-template-columns: 1fr 2fr;
