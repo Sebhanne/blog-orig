@@ -47,7 +47,7 @@ ul li a i:hover {
   opacity: 0.7;
 }
 .links {
-  text-align: center;
+  text-align: justify;
 }
 /* navbar*/
 .sidebar {
@@ -143,15 +143,15 @@ p {
   font-family: "Satisfy", cursive;
 }
 .pimg1 {
-  background-image: url("./images/city.jpeg");
+  background-image: url("/public/images/city.jpeg");
   min-height: 200%;
 }
 .pimg2 {
-  background-image: url("./images/city.jpeg");
+  background-image: url("/public/images/city.jpeg");
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url("./images/city.jpeg");
+  background-image: url("/public/images/city.jpeg");
   min-height: 400px;
 }
 
