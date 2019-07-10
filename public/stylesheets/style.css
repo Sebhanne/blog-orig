@@ -40,7 +40,7 @@ ul li a i {
 .fa-linkedin {
   background: skyblue;
 }
-.fa-fa-twitter {
+.fa-twitter {
   background: skyblue;
 }
 ul li a i:hover {
@@ -143,7 +143,7 @@ p {
   font-family: "Satisfy", cursive;
 }
 .pimg1 {
-  background-image: url("/public/images/bcakground.jpg");
+  background-image: url("/public/images/city.jpeg");
   min-height: 200%;
 }
 .pimg2 {
