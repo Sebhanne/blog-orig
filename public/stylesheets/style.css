@@ -12,6 +12,9 @@ html {
   line-height: 1.8em;
   color: #444;
 }
+p {
+  align-content: center;
+}
 
 /*links*/
 ul {
