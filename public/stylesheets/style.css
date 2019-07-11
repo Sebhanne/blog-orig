@@ -136,6 +136,7 @@ p {
   /* fixed = parallax
   scroll = normal */
 }
+
 .myname .web p {
   color: white;
   font-size: 100%;
@@ -143,18 +144,17 @@ p {
   font-family: "Satisfy", cursive;
 }
 .pimg1 {
-  background-image: url("images/city.jpeg");
-  min-height: 200%;
+  background-image: url("./images/city.jpg");
+  min-height: 300%;
 }
 .pimg2 {
-  background-image: url("images/city.jpeg");
+  background-image: url("./images/city.jpeg");
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url("images/city.jpeg");
+  background-image: url("./images/city.jpeg");
   min-height: 400px;
 }
-
 .section {
   text-align: center;
   padding: 50px 80px;
