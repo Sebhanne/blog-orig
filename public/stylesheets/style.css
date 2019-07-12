@@ -149,11 +149,11 @@ p {
   min-height: 300%;
 }
 .pimg2 {
-  background-image: url("/public/images/city.jpeg");
+  background-image: url("../images/city.jpeg");
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url("/public/images/city.jpeg");
+  background-image: url("../images/city.jpeg");
   min-height: 400px;
 }
 .section {
