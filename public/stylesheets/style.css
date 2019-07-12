@@ -12,9 +12,6 @@ html {
   line-height: 1.8em;
   color: #444;
 }
-p {
-  align-content: center;
-}
 
 /*links*/
 ul {
@@ -106,6 +103,7 @@ ul li a i:hover {
 p {
   font-size: 130%;
   color: black;
+  justify-content: center;
 }
 /*about*/
 .center {
@@ -147,7 +145,7 @@ p {
   font-family: "Satisfy", cursive;
 }
 .pimg1 {
-  background-image: url("/public/images/city.jpeg");
+  background-image: url("../images/city.jpeg");
   min-height: 300%;
 }
 .pimg2 {
